@@ -1,2 +1,2 @@
-# python-basics-
-My first python practice programs 
+# python-basics
+This repository contains my Python learning jorney.
