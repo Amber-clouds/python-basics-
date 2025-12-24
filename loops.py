@@ -12,5 +12,5 @@ for number in range(1, 6):
 count = 1
 
 while count <= 5:
-    print("While loop count:", count)
+    print(count)
     count += 1
