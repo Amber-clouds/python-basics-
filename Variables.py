@@ -1,8 +1,7 @@
 Variables.py
 
-#this program takes user input and prints it
-name = input("Enter your name: ")
-age  = input("Enter your age: ")
+name = "Amber"
+age = 15
 
-print("Name:", name)
-print("Age:", age)
+print("My name is", name)
+print("I am", age, "years old")
